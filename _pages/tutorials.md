@@ -19,7 +19,10 @@ goals.
 1. <i class="fab fa-youtube"></i> [Automating MBSE Models with Gaphor and Python](https://youtu.be/9BYgI1nJCBA),
    presented by Dan at a Michigan Python event.
 1. [How to report a bug in Gaphor]({{ "/tutorials/report-bugs/" | prepend: site.baseurl }})
-
+1. A reference example is [Gaphor Distilled](https://github.com/mikekidner/gaphor_distilled) which implements the DELL- 
+   SAT-77 model used as the basis for [SysML Distilled](https://delligattiassociates.com/publications/), one of the standard 
+   references for the SysML language.
+   
 You can find a lot more info on the [Gaphor Documentation site](https://docs.gaphor.org/).
 
 ## Talks
